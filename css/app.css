@@ -1,3 +1,8 @@
 p {
     color: rgb(18, 18, 172);
+    font-size: 14px; 
+}
+
+img {
+    width:50%;
 }
